@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/10/02 19:36:34.000.316,=C:\Users\Eliel Souza\OneDrive\Meus Documentos\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/02 19:37:06.000.514,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPrincipal.pas=C:\Users\Eliel Souza\OneDrive\Meus Documentos\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/02 19:37:06.000.514,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPrincipal.dfm=C:\Users\Eliel Souza\OneDrive\Meus Documentos\Meus Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/10/02 19:41:23.000.667,=C:\Users\Eliel Souza\OneDrive\Meus Documentos\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/02 19:43:47.000.191,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\cadastros\uClientesList.pas=C:\Users\Eliel Souza\OneDrive\Meus Documentos\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/02 19:43:47.000.191,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\cadastros\uClientesList.dfm=C:\Users\Eliel Souza\OneDrive\Meus Documentos\Meus Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/10/02 19:59:11.000.985,D:\Consultorias\FelipeEsteves\ERPComDelphi\ErpComDelphi.dproj=C:\Users\Eliel Souza\OneDrive\Meus Documentos\Meus Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/10/02 20:00:05.000.437,=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/02 20:00:38.000.642,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\cadastros\uClienteCadastro.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/02 20:00:38.000.642,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\cadastros\uClienteCadastro.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.dfm</Transaction>
+    <Transaction>2025/10/02 20:37:37.000.750,=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/02 20:44:00.000.821,D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uDmGlobal.pas</Transaction>
+    <Transaction>2025/10/02 20:44:00.000.821,D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uDmGlobal.dfm</Transaction>
+    <Transaction>2025/10/03 20:14:39.000.691,=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/03 20:15:18.000.900,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPesquisarMunicipio.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/03 20:15:18.000.900,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPesquisarMunicipio.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.dfm</Transaction>
+    <Transaction>2025/10/03 20:32:05.000.363,=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/03 20:32:17.000.556,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\cadastros\uProdutosList.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.dfm</Transaction>
+    <Transaction>2025/10/03 20:32:17.000.556,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\cadastros\uProdutosList.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/03 20:32:22.000.838,=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit2.pas</Transaction>
+    <Transaction>2025/10/03 20:32:33.000.108,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\cadastros\uProdutoCadastro.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit2.dfm</Transaction>
+    <Transaction>2025/10/03 20:32:33.000.108,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\cadastros\uProdutoCadastro.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit2.pas</Transaction>
+    <Transaction>2025/10/03 20:57:19.000.735,=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/03 20:58:02.000.314,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uVenda.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.dfm</Transaction>
+    <Transaction>2025/10/03 20:58:02.000.314,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uVenda.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/04 13:23:29.000.532,=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/04 13:24:50.000.888,D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPesquisarClientes.pa.dfm</Transaction>
+    <Transaction>2025/10/04 13:24:50.000.888,D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPesquisarClientes.pa.pas</Transaction>
+    <Transaction>2025/10/04 13:25:06.000.496,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPesquisarClientes.pa.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPesquisarClientes.pas</Transaction>
+    <Transaction>2025/10/04 13:25:06.000.496,D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPesquisarClientes.pa.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPesquisarClientes.dfm</Transaction>
+    <Transaction>2025/10/04 13:33:41.000.616,=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/04 13:34:28.000.890,D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPesquisarProdutos.dfm</Transaction>
+    <Transaction>2025/10/04 13:34:28.000.890,D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uPesquisarProdutos.pas</Transaction>
+    <Transaction>2025/10/04 14:44:34.000.999,=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/04 14:45:34.000.961,D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uRelatorios.dfm</Transaction>
+    <Transaction>2025/10/04 14:45:34.000.961,D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uRelatorios.pas</Transaction>
+    <Transaction>2025/10/04 14:59:00.000.706,=D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas</Transaction>
+    <Transaction>2025/10/04 15:01:28.000.249,D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.pas=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uRelatorioVendaPorCliente.pas</Transaction>
+    <Transaction>2025/10/04 15:01:28.000.249,D:\Consultorias\FelipeEsteves\ERPComDelphi\Unit1.dfm=D:\Consultorias\FelipeEsteves\ERPComDelphi\units\uRelatorioVendaPorCliente.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
